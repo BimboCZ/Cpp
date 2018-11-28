@@ -19,10 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Functions.cpp" />
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Functions.h" />
     <ClInclude Include="Log.h" />
     <ClInclude Include="Variables.h" />
   </ItemGroup>
